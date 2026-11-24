@@ -6,3 +6,10 @@ make a nice printable version
 
 only do warmup before first run
 add nice
+
+## Quick Start (Windows / Linux / macOS)
+
+```sh
+# Clone & enter repository (all platforms)
+git clone https://github.com/awesome-os/benchy.git && cd benchy
+```
